@@ -13,6 +13,9 @@ const business = {
     reviewCount: 90,  
 }
 
+/**
+ * The purpose of the <Business /> component is to represent how a business (a restaurant) in Ravenous will be formatted and styled.
+ */
 class Business extends React.Component {
     render() {
         <div className="Business">
